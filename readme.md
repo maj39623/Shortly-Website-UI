@@ -29,3 +29,4 @@ npm run build
 ```
 
 You only need to deploy your html files and css/style.css
+# Shortly-Website-UI
